@@ -17,6 +17,8 @@
 
 Go to [https://goo.gl/c2yQRF](https://goo.gl/c2yQRF) and assign a document to yourself
 
+IAB articles are top priority 
+
 ## Login into WP Admin
 
 
@@ -84,6 +86,19 @@ Use [https://www.pdfaid.com/ExtractImages.aspx](https://www.pdfaid.com/ExtractIm
 [Taking Snippets on Mac](https://www.cnet.com/how-to/three-ways-to-take-a-screenshot-on-a-mac/) TLDR; Command+Shift+4
 
 When uploading images make sure the large size is selected
+
+## Hero Image 
+
+<img src="bla.jpg" id="iab-hero-image">
+
+## Add Meta Data 
+
+1. Wordpress 
+2. "Yoast SEO" field 
+3. Snippet Review 
+4. Edit Snippet 
+5. Add first paragraph of article to Meta Description
+
 
 ## Linking New Location
 
