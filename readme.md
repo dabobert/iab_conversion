@@ -1,5 +1,7 @@
 # Migrate PDF Content
 
+[2018-12-12 Updates](https://github.com/dabobert/iab_conversion#2018-12-12-updates)
+
 [Tags Rob Didn't Create](https://github.com/dabobert/iab_conversion/wiki/Tags-Rob-Didn't-Create)
 
 [Video](https://bluejeans.com/s/h93V4)
@@ -56,6 +58,7 @@ Transcoding Video............................6
 ```
 
 is both
+
 1. not needed, because the code will be creating the links
 1. incorrect because the page numbers do not translate to a web page
 
