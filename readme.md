@@ -13,6 +13,65 @@
 
 [Rob's sample migration](https://iabstaging.wpengine.com/insights/themobileidguide/)
 
+## 2018-12-12 Updates
+
+### Publishing Content
+
+After your article has been approved, the following steps should be performed
+
+1. **PUBLISH** the article
+1. Copy and paste the final URL into the [Spreadsheet](https://docs.google.com/spreadsheets/d/1J8e9WzqxtfqzDAWA08nQx70yGEfFO5_7dq_1shs4YuY/edit#gid=0)
+1. Use this Published URL to replace the links to the orignal PDF
+
+
+### Add Insight Types
+
+Make sure to add an insight type to all content added.  
+
+* One-Sheet
+* Infographic
+* Case Study
+* Research
+* White Paper
+
+The insight types menu is below topics 
+
+<img src="https://s3.us-east-2.amazonaws.com/misc-iab-files/iab_conversion-insight_types.png" height="50%" width="50%" />
+
+
+### Creating table of contents
+
+To create table of contents you ONLY need to create the headings within the document.
+
+Use `<h3 class="toc">Title</h3>` for main headings.
+
+Use `<h4 class="toc">Sub-Title</h4>` for sub-headings.
+
+
+
+There will be code that will convert these headings into links, as such there is no need to create the headings manually ie doing the following
+
+```
+Transcoding Video............................6
+```
+
+is both
+1. not needed, because the code will be creating the links
+1. incorrect because the page numbers do not translate to a web page
+
+
+### Download Links
+
+Links to download pdf files like the one here
+
+`<a class=" pdf_download_link" href="http://www.iab.com/wp-content/uploads/2017/06/VerticalVideo-Research.pdf">Download</a>`
+
+should be at the should be at the **BOTTOM** of the page.  This ensures that the first letter of the article will be copy and not download as shown in the image below
+
+<img src="https://misc-iab-files.s3.amazonaws.com/download_captilized_letter.png" width="50%" height="50%" />
+
+Again it should NOT look above
+
 ## Select an article to convert
 
 Go to [https://goo.gl/c2yQRF](https://goo.gl/c2yQRF) and assign a document to yourself
@@ -25,7 +84,8 @@ IAB articles are top priority
 [Login](https://iabstaging.wpengine.com/wp-login.php?itsec-hb-token=iabadmin) into the WPAdmin area
 
 
-## Create a new `Insight` for the content
+## Create a new `Insight` for the 
+
 Create a new [insight](https://iabstaging.wpengine.com/wp-admin/post-new.php?post_type=iab_insight)
 
 Copy and paste text from pdf file into inline wordpress content
