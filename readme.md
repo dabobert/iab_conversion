@@ -21,7 +21,26 @@
 
 ## 2018-12-18 Updates
 
-New Conversion Notes
+
+
+### PDF to Word to Word Press Tutorial
+
+[Importing PDF's into Word Video Tutorial](https://misc-iab-files.s3.amazonaws.com/iab_data_conversion_PDF_to_Word_process_2.mp4)
+
+The above video goes on to show how to copy and paste from word into Wordpress.  The first half is how to import into Word
+
+[Importing Word Files into WordPress](https://misc-iab-files.s3.amazonaws.com/iab_data_conversion_import_tool.mp4)
+
+* if spacing between words looks funny, find and replace `^t` (the tab chrar) with space
+* make all text black
+* all clean-up of doc must happen in ms word
+* there is NO hero image
+* make sure to convert everyhting to h3,h4,h5 they will come out as h1 for the most part
+* images will automatically be on their own lines. no need to worry about it
+* BUT some may need to be replaced
+* sublists (ie list wihtin a list) will NOT be working
+
+### New Conversion Notes
 As of 12/18/18
 
 New Template
