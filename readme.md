@@ -1,5 +1,7 @@
 # Migrate PDF Content
 
+[2018-12-18 Updates](https://github.com/dabobert/iab_conversion#2018-12-18-updates)
+
 [2018-12-12 Updates](https://github.com/dabobert/iab_conversion#2018-12-12-updates)
 
 [Tags Rob Didn't Create](https://github.com/dabobert/iab_conversion/wiki/Tags-Rob-Didn't-Create)
@@ -14,6 +16,52 @@
 [Original PDF](https://www.iab.com/wp-content/uploads/2017/06/Mobile-Identity-Guide-for-Marketers-Report.pdf)
 
 [Rob's sample migration](https://iabstaging.wpengine.com/insights/themobileidguide/)
+
+
+
+## 2018-12-18 Updates
+
+New Conversion Notes
+As of 12/18/18
+
+New Template
+Download Sublime
+
+Questions:
+
+Q: Does the “Mobile” sample reflect the new template?
+A: Rob will work on it. Refer to it by the end of the day
+
+Q: Ask dev team to automate line number and fix floating images
+A: need response
+
+Q: New deadline?
+A: December 26 & January 4
+
+Q: Do we work on new pages?
+A: Not until all our current ones meet the new deliverables
+
+Comments:
+
+* Make margins uniform
+* Recheck links
+* No need to repeat titles
+* New tag for co-branded images
+* Do not copy table of contents
+* Download link at the bottom of page
+* Header on own line
+* + tags (AD TECH)
+
+
+Style Guide:
+
+* Caption for images <small> <em>
+* Cobranded images
+* Use line breaks <br/>
+* No footer
+* No copyright
+* IAB_hero_image
+
 
 ## 2018-12-17 Updates
 
