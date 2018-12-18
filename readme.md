@@ -15,6 +15,29 @@
 
 [Rob's sample migration](https://iabstaging.wpengine.com/insights/themobileidguide/)
 
+## 2018-12-17 Updates
+
+### Cobraded images
+
+Co-branded logos should have the class `iab_cobranded` like
+
+```
+<img src="spotify_logo.png" class="iab_cobranded" />
+```
+
+### Using Microsoft Word to convert PDFS
+
+1: open pdf as word file
+2: save each image, and then delete each image (will be used for uploading)
+3: select all text convert it to black
+4: copy and paste all content (it now has no images, and is all black) into wordpad
+5: Use word pad to make sure that the flow of paragraphs is correct
+6: You will need to:
+  * recreate lists
+  * insert images
+
+
+
 ## 2018-12-12 Updates
 
 ### Publishing Content
@@ -301,3 +324,10 @@ Apply tags for each article from the following list
 ## Update all links so it points ot the new post
 
 Go to [Rob will provide link](#) and assign a document to yourself
+
+
+## Style Guide
+
+* Downnload Link
+* Headers are tagged with h3/h4 AND are lines by themsleves
+* Captions/comments aere italicized
