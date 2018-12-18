@@ -138,7 +138,7 @@ is both
 
 Links to download pdf files like the one here
 
-`<a class=" pdf_download_link" href="http://www.iab.com/wp-content/uploads/2017/06/VerticalVideo-Research.pdf">Download</a>`
+`<a class="pdf_download_link" href="http://www.iab.com/wp-content/uploads/2017/06/VerticalVideo-Research.pdf">Download</a>`
 
 should be at the should be at the **BOTTOM** of the page.  This ensures that the first letter of the article will be copy and not download as shown in the image below
 
