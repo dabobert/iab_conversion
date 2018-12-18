@@ -175,7 +175,8 @@ When uploading images make sure the large size is selected
 
 ## Hero Image 
 
-<img src="bla.jpg" id="iab-hero-image">
+
+`<img src="bla.jpg" id="iab-hero-image">`
 
 ## Add Meta Data 
 
