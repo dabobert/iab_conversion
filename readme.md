@@ -22,6 +22,10 @@
 ## 2018-12-18 Updates
 
 
+### Sample PDFs
+
+[Word Conversion](https://iabstaging.wpengine.com/?post_type=iab_insight&p=73270&preview=true)
+[Manual Conversion]( https://iabstaging.wpengine.com/insights/mobile-guide-doc/ )
 
 ### PDF to Word to Word Press Tutorial
 
