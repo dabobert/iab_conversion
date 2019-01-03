@@ -1,5 +1,7 @@
 # Migrate PDF Content
 
+[2019-01-03](https://github.com/dabobert/iab_conversion#2019-01-03-updates)
+
 [2018-12-18 Updates](https://github.com/dabobert/iab_conversion#2018-12-18-updates)
 
 [2018-12-12 Updates](https://github.com/dabobert/iab_conversion#2018-12-12-updates)
@@ -18,6 +20,15 @@
 [Rob's sample migration](https://iabstaging.wpengine.com/insights/themobileidguide/)
 
 
+## 2019-01-03 Updates
+
+If a page that links to your insight has an about the author blurb like
+
+<img src="https://misc-iab-files.s3.amazonaws.com/iab_about_the_author_eric_john.png" width="50%" height="50%" />
+
+you need to create an author connection within the insight
+
+<img src="https://misc-iab-files.s3.amazonaws.com/iab_author_connection.png" width="50%" height="50%" />
 
 ## 2018-12-18 Updates
 
