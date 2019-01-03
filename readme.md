@@ -1,6 +1,6 @@
 # Migrate PDF Content
 
-[2019-01-03](https://github.com/dabobert/iab_conversion#2019-01-03-updates)
+[2019-01-03 Updates](https://github.com/dabobert/iab_conversion#2019-01-03-updates)
 
 [2018-12-18 Updates](https://github.com/dabobert/iab_conversion#2018-12-18-updates)
 
