@@ -1,5 +1,7 @@
 # Migrate PDF Content
 
+[2019-03-28 Creating Content on Production]()
+
 [2019-01-03 Updates](https://github.com/dabobert/iab_conversion#2019-01-03-updates)
 
 [2018-12-18 Updates](https://github.com/dabobert/iab_conversion#2018-12-18-updates)
@@ -19,6 +21,24 @@
 
 [Rob's sample migration](https://iabstaging.wpengine.com/insights/themobileidguide/)
 
+
+
+## 2019-03-28 Creating Content on Production
+
+<ul>
+<li>Content should be created as drafts in prod</li>
+<li>Emphasis is on readability</li>
+<li>When done insert final links in the sheet To be released in the Google Sheet - https://docs.google.com/spreadsheets/d/1_J8xyza-gfoFy8cWeJeMmLrsgGy_36xNv67gj-1sC7Q/edit#gid=0</li>
+<li>all content that is "ready" should be copied to production
+new content that has not been converted yet, should be done in production FIRST</li>
+<li>run spell/grammar check on the document
+you can just copy and paste all of it into word and see what word picks up</li>
+<li>AND ALL FINALIZED CONTENT MUST BE PEER REVIEWED!!!!!  YOU CAN MAKE LIZ OR MATT THE EDITOR I DONT CARE</li>
+</ul>
+
+To Login into the Prod Admin visit [https://www.iab.com/wp-login.php?itsec-hb-token=iabadmin](https://www.iab.com/wp-login.php?itsec-hb-token=iabadmin)
+
+To create a new insight on Prod click [https://www.iab.com/wp-admin/post-new.php?post_type=iab_insight](https://www.iab.com/wp-admin/post-new.php?post_type=iab_insight)
 
 ## 2019-01-03 Updates
 
